@@ -7,13 +7,16 @@
 	* Taken in Carnegie Library Main first floor stacks
 **Images drawn by me**
 * Person playing keyboard
+* Person using library laptop
+* Two people playing a video game
+* Person doing yoga
+* Person giving a lecture / presentation
+* Person reading a newspaper
+* People standing up having a conversation
+* Two children being read to 
 
 ## REPURPOSED ASSETS
 **Fonts**
 	* Lato
 	* Yeseva One
-**Images**
-	* tba?
 
-* Tables
-* People (listening to a lecture, listening to music, studying together, playing games, using the computer, etc.) 
