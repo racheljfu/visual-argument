@@ -5,6 +5,7 @@
 **Photos taken by me**
 * Background library photo
 	* Taken in Carnegie Library Main first floor stacks
+	
 **Images drawn by me**
 * Person playing keyboard
 * Person using library laptop
@@ -17,8 +18,10 @@
 
 ## REPURPOSED ASSETS
 **Fonts**
-	* Lato
-	* Yeseva One
+* Lato
+* Playfair Display
+* Yeseva One
+	
 
-* See CREDITS.md for more info
+**See CREDITS.md for more info
 
