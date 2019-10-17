@@ -2,14 +2,15 @@
 * See assets.md for descriptions of all created assets 
 
 ## Fonts
-** Big Shoulders
-	* Designed by XO Type Co.
-	* Used under SIL Open Font License v1.10
-	* Find at https://www.fontsquirrel.com/fonts/big-shoulders
+
 ** Lato
 	* Designed by Łukasz Dziedzic
 	* Used under SIL Open Font License v1.10
 	* Find at https://www.fontsquirrel.com/fonts/lato
+** Playfair Display
+	* Designed by Claus Eggers Sørensen
+	* Used under SIL Open Font License v1.10
+	* Find at https://www.fontsquirrel.com/fonts/playfair-display
 ** Yeseva One
 	* Designed by Jovanny Lemonad
 	* Used under SIL Open Font License v1.10

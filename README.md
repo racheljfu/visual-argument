@@ -2,12 +2,13 @@
 Rachel Wonder
 
 ## My title:
-**Support your public library...it's not just for books*
+**Support your public library...venture beyond the books*
 
 ## Ideas 
-In my visual rhetoric project I want to argue that there are lots of benefits and usages of public libraries, to show 
-that there is much more that you can do there than just read books and study. Besides that, you can do research projects,
+In my visual rhetoric project I argue that there are lots of benefits and usages of public libraries, to show 
+that there is much more that you can do there than just read books and study. For example, you can do research projects,
 play instruments and do crafts, listen to guest speakers, learn a new language, watch movies or play games, etc.
+as depicted in the photo.
 
 ## Image specifics
 
