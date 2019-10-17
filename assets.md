@@ -20,3 +20,5 @@
 	* Lato
 	* Yeseva One
 
+* See CREDITS.md for more info
+
